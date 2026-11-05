@@ -4,8 +4,6 @@ Busca de jogos free-to-play com detalhes e descrição traduzida pro português.
 
 🔗 **Demo:** https://victorbelo2005-dev.github.io/gamefinder/
 
-![Print do projeto](img/print.png)
-
 ## Funcionalidades
 - Busca de jogos por nome
 - Cards com capa, gênero, plataforma e data de lançamento
